@@ -620,7 +620,6 @@ void Game::updateEnemies() {
                             }
                     } 
         }
-
     }
     else if(firstStageCompleted == true && portalEffect == true) {
         
